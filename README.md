@@ -1,0 +1,1 @@
+A sample page for a coming soon website.
